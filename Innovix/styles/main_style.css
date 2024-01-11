@@ -1,0 +1,55 @@
+.contact-info{
+  font-size: 12px;
+}
+.nav-links{
+  font-size: 19px;
+  font-weight: 500;
+  color: #212934;
+}
+.nav-items{
+  margin-right: 100px;
+  padding: 5px;
+}
+.nav-icon{
+  margin-right: 21px;
+}
+.cart{
+  top: 1rem;
+  right: 3.4rem;
+  padding: 0px 6px;
+  font-size: small;
+  background: rgb(221, 221, 221);
+}
+.user{
+  top: 1rem;
+  right: 0.3rem;
+  padding: 0px 6px;
+  font-size: small;
+  background: rgb(221, 221, 221);
+}
+
+li:hover{
+  background-color: rgb(33,37,41);
+  border-radius: 80%;
+  & .nav-links{
+    color: rgb(221, 221, 221);
+  }
+
+}
+
+.nombre_compania{
+  color: rgb(33,37,41);
+}
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
+}
+

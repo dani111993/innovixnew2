@@ -1,0 +1,122 @@
+.listProduct .item img{
+     width: 90%;
+     filter: drop-shadow(0px 50px 20px #0009);
+}
+
+.listProduct{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.listProduct .item{
+    background-color: #eeeee6;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.listProduct h2{
+    font-weight: 500;
+    font-size: large;
+}
+
+.listProduct .item .price{
+    letter-spacing: 7px;
+    font-size: small;
+}
+
+.listProduct .item button{
+    background-color: #212934;
+    color: #eee;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.listCart{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding-left: 20%;
+}
+
+.cartTab{
+    width: 80%;
+    height: 80%;
+    min-height: 600px;
+    background-color:#212934;
+    color: #eee;
+    display: grid;
+}
+
+
+
+.cartTab h1{
+    padding: 20px;
+    margin: 0;
+    font-weight: 300;
+    text-align: center;
+}
+
+.cartTab .btn{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.cartTab .btn button{
+    background-color: #E8BC0E;
+    border: none;
+    border-radius: 15%;
+    font-family: poppins;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.cartTab .listCart .item img{
+    width: 100%;
+
+}
+.cartTab .listCart .item{
+    display: grid;
+    grid-template-columns: 70px 150px 50px 1fr;
+    gap: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.listCart .quantity span{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-color: #eee;
+    color: #555;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.cartTab .quantity span:nth-child(2){
+    background-color: transparent;
+    color: #eee;
+}
+.cartTab .item span:nth-child(even){
+    background-color: #eee1;
+}
+
+.listCart {
+    overflow: auto;
+}
+.listCart::-webkit-scrollbar{
+    width: 0;
+}
+/* Makes screen adaptable to different sizes */
+@media screen and (max-width: 992px){
+    .listProduct{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

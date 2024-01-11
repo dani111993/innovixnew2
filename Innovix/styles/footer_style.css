@@ -1,0 +1,24 @@
+footer {
+    background-color: #212934; /* Set your desired background color */
+    color: white; /* Set your desired text color */
+    text-align: center;
+    padding: 10px;
+    position: bottom;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}

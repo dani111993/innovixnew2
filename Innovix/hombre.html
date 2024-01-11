@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <title>Innovix</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles\cart_style.css">
+    <link rel="stylesheet" href="styles\main_style.css">
+    <link rel="stylesheet" href="styles\index_style.css">
+    <link rel="stylesheet" href="styles\footer_style.css">
+
+    <script src="src\main.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/7e91ed712c.js" crossorigin="anonymous"></script>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+    </style>
+</head>
+<body>
+    <header>
+      <script src="src\cart.js"></script>
+      <div>
+        <nav class="navbar navbar-expand-lg bg-dark">
+            <div class="container">
+             <div class="w-100 d-flex justify-content-between">
+              <div>
+                <i class="fa-solid fa-envelope text-light contact-info"></i>
+                <a href="https://mail.google.com" target="_blank" class="navbar-sm-brand text-light text-decoration-none
+                       contact-info">Innofix@gmail.com
+                </a>
+                <i class="fa-solid fa-phone contact-info text-light"></i>
+                <a href="" class="navbar-sm-brand text-white text-decoration-none
+                       contact-info">246-159-5454</a>
+              </div>
+                     <div>
+                       <a href="https://www.facebook.com" target="_blank" class="text-white">
+                           <i class="fa-brands fa-facebook me-2"></i></a>
+                       <a href="https://www.instagram.com" target="_blank" class="text-white">
+                           <i class="fa-brands fa-instagram me-2"></i></a>
+                       <a href="https://www.linkedin.com" target="_blank" class="text-white">
+                           <i class="fa-brands fa-linkedin me-2"></i></a>
+                       <a href="https://www.twitter.com" target="_blank" class="text-white">
+                           <i class="fa-brands fa-twitter me-2"></i></a>
+                     </div>
+                   </div>
+                 </div>
+               </nav>
+             </div>
+    </div>
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container d-flex justify-content-between">
+          <div>
+            <a href="index.html"><h1 class="nombre_compania">Innovix</h1></a>
+          </div>
+          <nav class="navbar navbar-expand-lg bg-light">
+            <div class="container-fluid">
+              <div class="collapse navbar-collapse">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  
+                  <li class="nav-item nav-items">
+                    <div class="dropdown show">
+                        <a class="nav-link nav-links dropdown-toggle" href="#" role="button" id="dropdownMenuLink" 
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Tiendas
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                          <a class="dropdown-item" href="adidas.html">Adidas</a>
+                          <a class="dropdown-item" href="HandM.html">H&M</a>
+                          <a class="dropdown-item" href="shein.html">Shein</a>
+                        </div>
+                    </div>
+    
+                  </li>
+                  <li class="nav-item nav-items">
+                    <a class="nav-link nav-links" href="#">Hombre</a>
+                  </li>
+                  <li class="nav-item nav-items">
+                    <a class="nav-link nav-links" href="#">Mujer</a>
+                  </li>
+                  <li class="nav-item nav-items">
+                    <a class="nav-link nav-links" href="#">Niño</a>
+                  </li>
+                </ul>
+                <div class="position-relative">
+                  <a href="favoritos.html" class="text-decoration-none text-dark">
+                    <i class="fa-solid fa-heart nav-icon"></i>
+                  </a>
+                  <a href="cart.html" class="text-decoration-none text-dark">
+                    <i class="fa-solid fa-cart-arrow-down nav-icon"></i>
+                  </a>
+
+                  <a href="perfil.html" class="text-decoration-none text-dark">
+                    <i class="fa-solid fa-user nav-icon"></i>
+                  </a>
+                </div>
+                
+                <script>
+                  document.addEventListener('DOMContentLoaded', function () {
+                    let totalQuantity = 0;
+                    let iconCartSpan = document.querySelector('.icon-cart span');
+
+                    let cart = JSON.parse(localStorage.getItem('cart'));
+                    if (cart) {
+                      cart.forEach(item => {
+                        totalQuantity += item.quantity;
+                      });
+                    }
+                    
+                    iconCartSpan.innerText = totalQuantity;
+                    console.log(totalQuantity);
+
+                
+                
+                  
+                });
+                </script>
+                
+                <div class="position-absolute rounded-circle icon-cart cart">
+                  <span>0</span>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </nav>
+    </header>
+    <h1>Hombre</h1>
+    <footer >
+      <div class="footer-links">
+        <a href="#">Configuración de las cookies</a>
+        <a href="#">Nuestros Datos</a>
+        <a href="#">Términos y Condiciones</a>
+        <a href="#">Uso del Sitio</a>
+        <a href="#">Términos y Condiciones Promociones</a>
+        <a href="#">Privacidad de Videovigilancia</a>
+    </div>
+      <p>&copy; 2024 Innovix Mexico S.A. de C.V.</p>
+      <p>INNOVIX® es una marca registrada de Innovix Inc.</p>
+  </footer>
+</body>
+
+</html>

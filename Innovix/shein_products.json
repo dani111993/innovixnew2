@@ -1,0 +1,162 @@
+[
+    {
+        "id": "101",
+        "name": "Sudadera con bordado de slogan con cremallera media forro polar",
+        "price": "286",
+        "image": "imagenes/shien_imagenes/prod101.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "102",
+        "name": "Top halter mapa de calor corporal",
+        "price": "94",
+        "image": "imagenes/shien_imagenes/prod102.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "103",
+        "name": "SHEIN Camisa De Maternidad",
+        "price": "179",
+        "image": "imagenes/shien_imagenes/prod103.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "104",
+        "name": "Coolane Vestido Pancarta De Color Sólido",
+        "price": "178",
+        "image": "imagenes/shien_imagenes/prod104.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "105",
+        "name": "Yoga Basic Leggings de yoga",
+        "price": "217",
+        "image": "imagenes/shien_imagenes/prod105.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "106",
+        "name": "SHEIN Coolane Camiseta Casual",
+        "price": "125",
+        "image": "imagenes/shien_imagenes/prod106.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "107",
+        "name": "LUNE Abrigo De Lana De Color Liso",
+        "price": "573",
+        "image": "imagenes/shien_imagenes/prod107.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "108",
+        "name": "EZwear Sudaderas, Estampado De Corazón",
+        "price": "333",
+        "image": "imagenes/shien_imagenes/prod108.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "109",
+        "name": "Coolane Pantalones cargo con bolsillo lateral",
+        "price": "157",
+        "image": "imagenes/shien_imagenes/prod109.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "110",
+        "name": "Sudadera con estampado de letra con forro térmico",
+        "price": "218",
+        "image": "imagenes/shien_imagenes/prod110.webp",
+        "genero": "mujer",
+        "tienda": "shein"
+    },
+    {
+        "id": "111",
+        "name": "Manfinity Homme Hombres Camisa con estampado",
+        "price": "306",
+        "image": "imagenes/shien_imagenes/prod111.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    },
+    {
+        "id": "112",
+        "name": "DAZY Hombres Camiseta de hombros caídos unicolor",
+        "price": "214",
+        "image": "imagenes/shien_imagenes/prod112.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    },
+    {
+        "id": "113",
+        "name": "Playera Drake More Life",
+        "price": "229",
+        "image": "imagenes/shien_imagenes/prod113.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    },
+    {
+        "id": "114",
+        "name": "Manfinity Hypemode Hombres Jeans zanahoria",
+        "price": "446",
+        "image": "imagenes/shien_imagenes/prod114.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    },
+    {
+        "id": "115",
+        "name": "Homme Camisas para hombre Bolsillo Liso Casual",
+        "price": "386",
+        "image": "imagenes/shien_imagenes/prod115.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    },
+    {
+        "id": "116",
+        "name": "Hypemode Hombres Shorts con parche de letra",
+        "price": "152",
+        "image": "imagenes/shien_imagenes/prod116.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    },
+    {
+        "id": "117",
+        "name": "Hombres Shorts unicolor de cintura con cordón",
+        "price": "208",
+        "image": "imagenes/shien_imagenes/prod117.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    },
+    {
+        "id": "118",
+        "name": "Camiseta De Cuello Redondo Y Manga",
+        "price": "119",
+        "image": "imagenes/shien_imagenes/prod118.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    },
+    {
+        "id": "119",
+        "name": "Hypemode Hombres Pantalones de pierna ancha",
+        "price": "371",
+        "image": "imagenes/shien_imagenes/prod119.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    },
+    {
+        "id": "120",
+        "name": "Camiseta De Para Hombres Con Gráfico De Calavera",
+        "price": "183",
+        "image": "imagenes/shien_imagenes/prod120.webp",
+        "genero": "hombre",
+        "tienda": "shein"
+    }
+]

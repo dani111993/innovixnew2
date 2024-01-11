@@ -1,0 +1,170 @@
+[
+    {
+        "id": "50",
+        "name": "TENIS HANDBALL SPEZIAL",
+        "price": "2199",
+        "image": "imagenes/adidas_imagenes/prod50.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "51",
+        "name": "TENIS ADIDAS COURTPOINT X",
+        "price": "923",
+        "image": "imagenes/adidas_imagenes/prod51.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "52",
+        "name": "TENIS RUNFALCON 2.0",
+        "price": "1175",
+        "image": "imagenes/adidas_imagenes/prod52.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "53",
+        "name": "TENIS ADIDAS GRAND COURT BASE 2.0",
+        "price": "1105",
+        "image": "imagenes/adidas_imagenes/prod53.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "54",
+        "name": "TENIS HANDBALL SPEZIAL",
+        "price": "2199",
+        "image": "imagenes/adidas_imagenes/prod54.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "55",
+        "name": "TENIS KAPTIR FLOW",
+        "price": "1105",
+        "image": "imagenes/adidas_imagenes/prod55.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "56",
+        "name": "TENIS MULTIX",
+        "price": "1343",
+        "image": "imagenes/adidas_imagenes/prod56.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "57",
+        "name": "TENIS SUPERSTAR",
+        "price": "2199",
+        "image": "imagenes/adidas_imagenes/prod57.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "58",
+        "name": "TENIS GAZELLE",
+        "price": "2499",
+        "image": "imagenes/adidas_imagenes/prod58.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "59",
+        "name": "TENIS LITE RACER 3.0",
+        "price": "1026",
+        "image": "imagenes/adidas_imagenes/prod59.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "60",
+        "name": "TENIS PARK ST.",
+        "price": "1434",
+        "image": "imagenes/adidas_imagenes/prod60.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "61",
+        "name": "TENIS ADIDAS GRAND COURT TD LIFESTYLE COURT CASUAL",
+        "price": "1399",
+        "image": "imagenes/adidas_imagenes/prod61.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "62",
+        "name": "TENIS ADIDAS GRAND COURT PLATFORMA",
+        "price": "1699",
+        "image": "imagenes/adidas_imagenes/prod62.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "63",
+        "name": "TENIS KAPTIR FLOW",
+        "price": "1105",
+        "image": "imagenes/adidas_imagenes/prod63.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "64",
+        "name": "TENIS ADIDAS COURT SILK",
+        "price": "1259",
+        "image": "imagenes/adidas_imagenes/prod64.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "65",
+        "name": "TENIS ADVANTAGE BASE ADIDAS COURT",
+        "price": "1026",
+        "image": "imagenes/adidas_imagenes/prod65.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "66",
+        "name": "TENIS GAZELLE INDOOR",
+        "price": "2399",
+        "image": "imagenes/adidas_imagenes/prod66.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "67",
+        "name": "TENIS FORUM BOLD",
+        "price": "2399",
+        "image": "imagenes/adidas_imagenes/prod67.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "68",
+        "name": "TENIS PUREMOTION 2.0",
+        "price": "1259",
+        "image": "imagenes/adidas_imagenes/prod68.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "69",
+        "name": "TENIS ADIDAS GRAND COURT TD LIFESTYLE COURT CASUAL",
+        "price": "1399",
+        "image": "imagenes/adidas_imagenes/prod69.jpeg",
+        "genero": "hombre",
+        "tienda": "adidas"
+    },
+    {
+        "id": "70",
+        "name": "TENIS HANDBALL SPEZIAL",
+        "price": "2199",
+        "image": "imagenes/adidas_imagenes/prod70.jpeg",
+        "genero": "hombre",
+        "tienda": "adidas"
+    }
+]

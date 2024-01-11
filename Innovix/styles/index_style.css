@@ -1,0 +1,85 @@
+.winterSale {
+    background-image: url('../imagenes/winterSaleBackground.webp');
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: #212934;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.winterSale h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    padding-left: 5%;
+}
+
+.winterSale h3 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    padding-left: 5%;
+}
+.winterSale button:hover {
+    background-color: #212934;
+}
+.winterSale button {
+    font-family:'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+.videoPromo {
+    max-width: 100%; 
+    max-height: 850px; 
+    border-radius: 5%;
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden; 
+}
+
+.videoPromo video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    border-radius: 5%;
+}
+
+.mensaje {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: #212934;
+}
+
+.overlay {
+    position: absolute;
+    top: 100%;
+    left: 8%;
+    transform: translateY(-50%);
+    width: 30%; 
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white; 
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.overlay a {
+    color: white; 
+}
+
+.overlay h1 {
+    font-size: 55px; 
+    margin-bottom: 10px;
+    
+}
+
+.overlay button:hover {
+    background-color: #212934;
+}
+

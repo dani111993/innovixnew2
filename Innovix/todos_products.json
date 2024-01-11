@@ -1,0 +1,490 @@
+[
+    {
+        "id": "1",
+        "name": "Suéter en tejido texturizado con olanes",
+        "price": "499",
+        "image": "imagenes/hm_imagenes/prod1.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "2",
+        "name": "Suéter en tejido acanalado",
+        "price": "539",
+        "image": "imagenes/hm_imagenes/prod2.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "3",
+        "name": "Blusa con olanes en bordado inglés",
+        "price": "499",
+        "image": "imagenes/hm_imagenes/prod3.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "4",
+        "name": "Baggy Regular Jeans",
+        "price": "539",
+        "image": "imagenes/hm_imagenes/prod4.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "5",
+        "name": "Blazer entallado",
+        "price": "849",
+        "image": "imagenes/hm_imagenes/prod5.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "6",
+        "name": "Vestido camisa con cinturón de lazo",
+        "price": "849",
+        "image": "imagenes/hm_imagenes/prod6.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "7",
+        "name": "Chamarra bomber con hombreras",
+        "price": "1099",
+        "image": "imagenes/hm_imagenes/prod7.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "8",
+        "name": "Blusa en popelina con moño",
+        "price": "849",
+        "image": "imagenes/hm_imagenes/prod8.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "9",
+        "name": "Top con olanes en tejido acanalado",
+        "price": "549",
+        "image": "imagenes/hm_imagenes/prod9.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "10",
+        "name": "Falda de tubo en tejido acanalado con olán",
+        "price": "549",
+        "image": "imagenes/hm_imagenes/prod10.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "11",
+        "name": "Camisa de descanso corrugada",
+        "price": "549",
+        "image": "imagenes/hm_imagenes/prod11.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "12",
+        "name": "Camisa popover en denim",
+        "price": "749",
+        "image": "imagenes/hm_imagenes/prod12.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "13",
+        "name": "Sudadera oversized",
+        "price": "399",
+        "image": "imagenes/hm_imagenes/prod13.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "14",
+        "name": "Joggers de talle alto",
+        "price": "399",
+        "image": "imagenes/hm_imagenes/prod14.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "15",
+        "name": "Chamarra bomber revestida",
+        "price": "1299",
+        "image": "imagenes/hm_imagenes/prod15.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "16",
+        "name": "Pijama de camisa y pantalón",
+        "price": "649",
+        "image": "imagenes/hm_imagenes/prod16.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "17",
+        "name": "Pantalón parachute en denim",
+        "price": "549",
+        "image": "imagenes/hm_imagenes/prod17.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "18",
+        "name": "Top de manga larga",
+        "price": "179",
+        "image": "imagenes/hm_imagenes/prod18.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "19",
+        "name": "Playera corta",
+        "price": "99",
+        "image": "imagenes/hm_imagenes/prod19.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "20",
+        "name": "Blusa de mangas abombadas con peplum",
+        "price": "299",
+        "image": "imagenes/hm_imagenes/prod20.jpeg",
+        "genero": "mujer",
+        "tienda": "hm"
+    },
+    {
+        "id": "50",
+        "name": "TENIS HANDBALL SPEZIAL",
+        "price": "2199",
+        "image": "imagenes/adidas_imagenes/prod50.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "51",
+        "name": "TENIS ADIDAS COURTPOINT X",
+        "price": "923",
+        "image": "imagenes/adidas_imagenes/prod51.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "52",
+        "name": "TENIS RUNFALCON 2.0",
+        "price": "1175",
+        "image": "imagenes/adidas_imagenes/prod52.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "53",
+        "name": "TENIS ADIDAS GRAND COURT BASE 2.0",
+        "price": "1105",
+        "image": "imagenes/adidas_imagenes/prod53.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "54",
+        "name": "TENIS HANDBALL SPEZIAL",
+        "price": "2199",
+        "image": "imagenes/adidas_imagenes/prod54.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "55",
+        "name": "TENIS KAPTIR FLOW",
+        "price": "1105",
+        "image": "imagenes/adidas_imagenes/prod55.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "56",
+        "name": "TENIS MULTIX",
+        "price": "1343",
+        "image": "imagenes/adidas_imagenes/prod56.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "57",
+        "name": "TENIS SUPERSTAR",
+        "price": "2199",
+        "image": "imagenes/adidas_imagenes/prod57.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "58",
+        "name": "TENIS GAZELLE",
+        "price": "2499",
+        "image": "imagenes/adidas_imagenes/prod58.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "59",
+        "name": "TENIS LITE RACER 3.0",
+        "price": "1026",
+        "image": "imagenes/adidas_imagenes/prod59.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "60",
+        "name": "TENIS PARK ST.",
+        "price": "1434",
+        "image": "imagenes/adidas_imagenes/prod60.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "61",
+        "name": "TENIS ADIDAS GRAND COURT TD LIFESTYLE COURT CASUAL",
+        "price": "1399",
+        "image": "imagenes/adidas_imagenes/prod61.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "62",
+        "name": "TENIS ADIDAS GRAND COURT PLATFORMA",
+        "price": "1699",
+        "image": "imagenes/adidas_imagenes/prod62.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "63",
+        "name": "TENIS KAPTIR FLOW",
+        "price": "1105",
+        "image": "imagenes/adidas_imagenes/prod63.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "64",
+        "name": "TENIS ADIDAS COURT SILK",
+        "price": "1259",
+        "image": "imagenes/adidas_imagenes/prod64.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "65",
+        "name": "TENIS ADVANTAGE BASE ADIDAS COURT",
+        "price": "1026",
+        "image": "imagenes/adidas_imagenes/prod65.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "66",
+        "name": "TENIS GAZELLE INDOOR",
+        "price": "2399",
+        "image": "imagenes/adidas_imagenes/prod66.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "67",
+        "name": "TENIS FORUM BOLD",
+        "price": "2399",
+        "image": "imagenes/adidas_imagenes/prod67.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "68",
+        "name": "TENIS PUREMOTION 2.0",
+        "price": "1259",
+        "image": "imagenes/adidas_imagenes/prod68.jpeg",
+        "genero": "mujer",
+        "tienda": "adidas"
+    },
+    {
+        "id": "69",
+        "name": "TENIS ADIDAS GRAND COURT TD LIFESTYLE COURT CASUAL",
+        "price": "1399",
+        "image": "imagenes/adidas_imagenes/prod69.jpeg",
+        "genero": "hombre",
+        "tienda": "adidas"
+    },
+    {
+        "id": "70",
+        "name": "TENIS HANDBALL SPEZIAL",
+        "price": "2199",
+        "image": "imagenes/adidas_imagenes/prod70.jpeg",
+        "genero": "hombre",
+        "tienda": "adidas"
+    },
+        {
+            "id": "101",
+            "name": "Sudadera con bordado de slogan con cremallera media forro polar",
+            "price": "286",
+            "image": "imagenes/shien_imagenes/prod101.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "102",
+            "name": "Top halter mapa de calor corporal",
+            "price": "94",
+            "image": "imagenes/shien_imagenes/prod102.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "103",
+            "name": "SHEIN Camisa De Maternidad",
+            "price": "179",
+            "image": "imagenes/shien_imagenes/prod103.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "104",
+            "name": "Coolane Vestido Pancarta De Color Sólido",
+            "price": "178",
+            "image": "imagenes/shien_imagenes/prod104.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "105",
+            "name": "Yoga Basic Leggings de yoga",
+            "price": "217",
+            "image": "imagenes/shien_imagenes/prod105.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "106",
+            "name": "SHEIN Coolane Camiseta Casual",
+            "price": "125",
+            "image": "imagenes/shien_imagenes/prod106.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "107",
+            "name": "LUNE Abrigo De Lana De Color Liso",
+            "price": "573",
+            "image": "imagenes/shien_imagenes/prod107.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "108",
+            "name": "EZwear Sudaderas, Estampado De Corazón",
+            "price": "333",
+            "image": "imagenes/shien_imagenes/prod108.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "109",
+            "name": "Coolane Pantalones cargo con bolsillo lateral",
+            "price": "157",
+            "image": "imagenes/shien_imagenes/prod109.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "110",
+            "name": "Sudadera con estampado de letra con forro térmico",
+            "price": "218",
+            "image": "imagenes/shien_imagenes/prod110.webp",
+            "genero": "mujer",
+            "tienda": "shein"
+        },
+        {
+            "id": "111",
+            "name": "Manfinity Homme Hombres Camisa con estampado",
+            "price": "306",
+            "image": "imagenes/shien_imagenes/prod111.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        },
+        {
+            "id": "112",
+            "name": "DAZY Hombres Camiseta de hombros caídos unicolor",
+            "price": "214",
+            "image": "imagenes/shien_imagenes/prod112.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        },
+        {
+            "id": "113",
+            "name": "Playera Drake More Life",
+            "price": "229",
+            "image": "imagenes/shien_imagenes/prod113.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        },
+        {
+            "id": "114",
+            "name": "Manfinity Hypemode Hombres Jeans zanahoria",
+            "price": "446",
+            "image": "imagenes/shien_imagenes/prod114.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        },
+        {
+            "id": "115",
+            "name": "Homme Camisas para hombre Bolsillo Liso Casual",
+            "price": "386",
+            "image": "imagenes/shien_imagenes/prod115.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        },
+        {
+            "id": "116",
+            "name": "Hypemode Hombres Shorts con parche de letra",
+            "price": "152",
+            "image": "imagenes/shien_imagenes/prod116.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        },
+        {
+            "id": "117",
+            "name": "Hombres Shorts unicolor de cintura con cordón",
+            "price": "208",
+            "image": "imagenes/shien_imagenes/prod117.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        },
+        {
+            "id": "118",
+            "name": "Camiseta De Cuello Redondo Y Manga",
+            "price": "119",
+            "image": "imagenes/shien_imagenes/prod118.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        },
+        {
+            "id": "119",
+            "name": "Hypemode Hombres Pantalones de pierna ancha",
+            "price": "371",
+            "image": "imagenes/shien_imagenes/prod119.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        },
+        {
+            "id": "120",
+            "name": "Camiseta De Para Hombres Con Gráfico De Calavera",
+            "price": "183",
+            "image": "imagenes/shien_imagenes/prod120.webp",
+            "genero": "hombre",
+            "tienda": "shein"
+        }
+]
